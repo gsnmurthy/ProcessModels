@@ -5,6 +5,7 @@ These models can be opened using Super Pro trial versions. We believe in making 
 
 # Models ProcessFlow_50
 simulates a hypothetical plant producing biodegradable plastic, poly-3-hydroxybutyrate from genetically modified hybrid poplar tree leaves. For details, please see our publication: 
+
 Hohenschuh, W., Kumar, D. and Murthy, G.S.* 2014. Economic and cradle-to-gate life cycle assessment of poly-3-hydroxybutyrate production from plastic producing, genetically modified hybrid poplar leaves. J. Ren. Sust. Energy 6:063113
 
 # Models EtOH_*
@@ -15,11 +16,13 @@ Kumar, D. and Murthy, G.S.* 2011. Impact of pretreatment and downstream processi
 Kumar, D. and Murthy, G.S. 2012. Life cycle assessment of ethanol production from grass straws using various pretreatment processes. Intl. J. LCA. 17:388-401.
 
 # Models 1.WS19 to 8.CS45 
-simulate various high solid hydrolysis and fermentation studeis using Wheat straw and corn stover. For details of experiments, techno-economi canalysis and LCA please refer to our publication below: 
+simulate various high solid hydrolysis and fermentation studeis using Wheat straw and corn stover. For details of experiments, techno-economi canalysis and LCA please refer to our publication below:
+
 Kadhum, H.J., Rajendran, K. and Murthy, G.S.* 2017. Effect of solids loading on ethanol production: Experimental, economic and environmental analysis. Biores. Technol. 244:108-116.
 
 # Models 1.BE to 6.BEL 
 simulate various biorefinery scenarios for banagrass. The details can be found in out publication: 
+
 Rajendran, K. and Murthy, G.S.* 2017. How does technology pathway choice influence economic viability and environmental impacts of lignocellulosic biorefineries? Biotechnol. Biofuels
 
 # How to open Superpro files?
